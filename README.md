@@ -5,4 +5,4 @@ Programming in Python II UE Content:
 - Neural Network Inference
 - Neural Network Training
 
-Final Project: Image clasification with Pytorch and Convolutional Neural Networks (CNNs)
+Final Project: Image classification with Pytorch and Convolutional Neural Networks (CNNs)
